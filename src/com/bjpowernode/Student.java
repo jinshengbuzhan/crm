@@ -2,6 +2,7 @@ package com.bjpowernode;
 
 public class Student {
     private String name;
+    private String age;
 
     public String getName() {
         return name;
